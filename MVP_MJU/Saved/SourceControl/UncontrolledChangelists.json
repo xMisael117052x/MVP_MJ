@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/xmisa/Documents/Github/MVP_MJ/MVP_MJU/Content/MJ/LVL1.umap",
+				"C:/Users/xmisa/Documents/Github/MVP_MJ/MVP_MJU/Content/MJ/HDRI/panorama-nocturno-de-la-galaxia.uasset",
+				"C:/Users/xmisa/Documents/Github/MVP_MJ/MVP_MJU/Content/MJ/HDRI/hdri-fantasy-skies-skyboxes-06.uasset",
+				"C:/Users/xmisa/Documents/Github/MVP_MJ/MVP_MJU/Content/MJ/HDRI/NewTextureRenderTargetCube.uasset",
+				"C:/Users/xmisa/Documents/Github/MVP_MJ/MVP_MJU/Content/MJ/HDRI/NewTextureRenderTarget2DArray.uasset",
+				"C:/Users/xmisa/Documents/Github/MVP_MJ/MVP_MJU/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/5R/6X5XBFF9ERBZ8JG64VUVWJ.uasset"
+			]
+		}
+	]
+}
