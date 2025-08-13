@@ -163,9 +163,13 @@
 				"C:/Users/xmisa/Documents/Github/MVP_MJ/MVP_MJU/Content/VigilanteContent/Vehicles/East_Tank_T72b/SKEL_East_Tank_T72b.uasset",
 				"C:/Users/xmisa/Documents/Github/MVP_MJ/MVP_MJU/Content/VigilanteContent/Vehicles/East_Tank_T72b/SK_East_Tank_T72B.uasset",
 				"C:/Users/xmisa/Documents/Github/MVP_MJ/MVP_MJU/Content/MJ/Input/IA_MoveTank.uasset",
-				"C:/Users/xmisa/Documents/Github/MVP_MJ/MVP_MJU/Content/MJ/Input/IMC_TankControls.uasset",
 				"C:/Users/xmisa/Documents/Github/MVP_MJ/MVP_MJU/Content/MJ/Blueprints/GM_TANK.uasset",
 				"C:/Users/xmisa/Documents/Github/MVP_MJ/MVP_MJU/Content/MJ/Blueprints/BP_TankPlayerController.uasset",
+				"C:/Users/xmisa/Documents/Github/MVP_MJ/MVP_MJU/Content/MJ/Input/IMC_.uasset",
+				"C:/Users/xmisa/Documents/Github/MVP_MJ/MVP_MJU/Content/MJ/Input/IMC_TANKt.uasset",
+				"C:/Users/xmisa/Documents/Github/MVP_MJ/MVP_MJU/Content/MJ/Blueprints/VehicleMovementComp_ExternalCurve.uasset",
+				"C:/Users/xmisa/Documents/Github/MVP_MJ/MVP_MJU/Content/VigilanteContent/Vehicles/East_Tank_T72b/Materials/MI_East_Tank_T72b_Tracks.uasset",
+				"C:/Users/xmisa/Documents/Github/MVP_MJ/MVP_MJU/Content/MJ/Input/IMC_TankControls.uasset",
 				"C:/Users/xmisa/Documents/Github/MVP_MJ/MVP_MJU/Content/MJ/LVL1.umap",
 				"C:/Users/xmisa/Documents/Github/MVP_MJ/MVP_MJU/Content/MJ/HDRI/NewTextureRenderTargetCube.uasset"
 			]
